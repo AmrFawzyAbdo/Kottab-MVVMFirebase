@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>600757334791-nockdeksg8h0ge3tujojsef20j089ks3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.600757334791-nockdeksg8h0ge3tujojsef20j089ks3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAKzPKPY3pNz_8wHCxIzMjCsCxDmMMRGnM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>600757334791</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kottab</string>
+	<key>PROJECT_ID</key>
+	<string>kottab-3c5a8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kottab-3c5a8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:600757334791:ios:8fc99aa05a756e05bc0ba2</string>
+</dict>
+</plist>
